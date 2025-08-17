@@ -1,13 +1,13 @@
-# 🌐 Anower Hossain | Academic Portfolio
+# Anower Hossain
 
 Welcome to my academic portfolio repository!  
 This website is built from scratch using **HTML, CSS, and JavaScript** and is hosted on **GitHub Pages**.
 
-🔗 **Live Website:** [https://anowerhossain.github.io](https://anowerhossain.github.io)
+**Live Website:** [https://anowerhossain.github.io](https://anowerhossain.github.io)
 
 ---
 
-## 📌 About
+## About
 I am **Anower Hossain**, a Computer Science student passionate about:
 - Academic Research
 - Competitive Programming
